@@ -1,0 +1,4 @@
+Author: Alex Ksikes
+
+Implementation of k-means using MDL for model selection.
+Trained on data.txt, tested on testClustering.txt.

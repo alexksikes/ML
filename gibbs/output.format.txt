@@ -1,0 +1,8 @@
+The output format should be:
+
+sequence 1 position 30 THEPATTERN
+sequence 2 position 12 THEPATTERN
+...
+sequence n position 23 THEPATTERN
+
+likelihood ratio: 57.2 

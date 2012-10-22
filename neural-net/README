@@ -1,0 +1,4 @@
+Author: Alex Ksikes
+
+For batchmode please run with low learning rate (less than 0.05) and low momentum (~0.001)).
+Train it on trainingdata.txt and test it on evaluationdata.txt. The best ANN is saved in myANN.dat.

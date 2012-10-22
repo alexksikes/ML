@@ -1,0 +1,10 @@
+Some very old Java code implementing a couple of machine learning algorithms:
+
+* k-nearest neighbor 
+* neural-nets
+* alglomerative clustering
+* genetic algortithm
+* gibbs sampling
+* k-means
+* evolutionary neural-nets 
+* ensemble selection (shotgun)

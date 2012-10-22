@@ -1,0 +1,14 @@
+Alex Ksikes, ak107@cs.cornell.edu
+
+To run:
+
+java -jar pattern_finder.zip [datefile] [L] [search_mode] [refine_mode]
+
+type with no option for help...
+
+To compile:
+
+Code is already compiled in jar file pattern_finder.zip
+
+extract zip archive pattern_finder.zip and run 
+javac ../gibbs/PatternFinder.java
